@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Nested-Comments/static/css/main.3364c218.css",
+    "main.js": "/React-Nested-Comments/static/js/main.8b1209db.js",
+    "index.html": "/React-Nested-Comments/index.html",
+    "main.3364c218.css.map": "/React-Nested-Comments/static/css/main.3364c218.css.map",
+    "main.8b1209db.js.map": "/React-Nested-Comments/static/js/main.8b1209db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3364c218.css",
+    "static/js/main.8b1209db.js"
+  ]
+}
